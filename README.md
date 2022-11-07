@@ -1,1 +1,1 @@
-# -DJ-Manager-API
+# DJ-Manager-API
